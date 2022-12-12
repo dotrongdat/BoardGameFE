@@ -1,0 +1,15 @@
+.header{
+    background-color: rgb(49, 30, 18);
+    height: 4rem;
+    opacity: 0.9;
+    position: static;
+    top: 0%;
+    width: 100%;
+    text-decoration: none;
+}
+.header a{
+    padding: 1vw;
+}
+.header .p-toolbar-group-right a{
+    text-decoration: none;
+}

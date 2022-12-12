@@ -1,0 +1,12 @@
+.search-bar{
+    width: 100%;
+}
+.search-bar_form{
+    text-align: center;
+}
+.search-bar input{
+    margin: 2vh;
+}
+.search-bar select{
+    margin: 2vh;
+}

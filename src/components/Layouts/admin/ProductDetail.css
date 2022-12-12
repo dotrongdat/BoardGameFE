@@ -1,0 +1,28 @@
+.product-detail{
+    height: auto;
+    width: 100%;
+}
+Form.Label{
+    color:red;
+}
+.product-detail_image{
+    height: 45vh;
+    width: 35vw;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.product-detail_price{
+    color: red;
+}
+.product-detail_content{
+    width: 100%;
+}
+.button{
+    margin-right: 2vw;
+
+    bottom: 1vh;
+}
+.blog_image img{
+    height: 50vh;
+    width: 45vw;
+}

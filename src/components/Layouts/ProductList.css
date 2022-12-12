@@ -1,0 +1,12 @@
+.product-list_empty-content{
+    text-align: center;
+}
+.product-list{
+    padding: 2vh;
+    height: auto;
+    min-height: 70vh;
+    text-align: center;
+}
+.product-list h1{
+    color: red;
+}

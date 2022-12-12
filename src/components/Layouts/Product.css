@@ -1,0 +1,25 @@
+.product_image{
+    margin-top: 2vh;
+    height: 50%;
+    width: 83%;
+}
+.product_name{
+    font-size: 0.85rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.product_price{
+    color: coral;
+    font-size: 1vw;
+    font-weight: 600;
+}
+.product{
+    border: 5px;
+    border-radius: 7px;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: 'white';
+    height: 37vh;
+    text-align: center;
+    position: relative;
+}

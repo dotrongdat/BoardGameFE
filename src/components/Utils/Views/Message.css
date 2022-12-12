@@ -1,0 +1,14 @@
+.message{
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-width: 70%;
+    border: 5px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.other{
+    background-color: rgb(251, 252, 253);
+}
+.my{
+    background-color: rgb(193, 213, 250);
+}

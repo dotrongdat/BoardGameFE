@@ -1,0 +1,20 @@
+.product_image{
+    margin-top: 2vh;
+    height: 60%;
+    width: 93%;
+}
+.product_name{
+    font-size: 3vh;
+}
+.product_price{
+    color: coral;
+    font-size: 3vh;
+}
+.product{
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(252, 247, 174);
+    height: 40vh;
+    text-align: center;
+}
